@@ -1,2 +1,5 @@
 - [关于](README.md)
-- [部署](deploy.md)
+    - [公司简介](gsjj.md)
+- [爱管家](agj.md)
+    - [登陆](login.md)
+    - [创建用户](user.md)
