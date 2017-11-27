@@ -1,10 +1,10 @@
 {
-    "root": "/doc",
+    "root": "./doc",
     "title": "示例文档",
     "head_title": "_示例文档_商户应用中心",
     "head_description": "商户应用中心示例文档",
     "head_keywords": "商户应用中心,商户应用中心,示例文档",
-    "logo": "/images/logo.png",
+    "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
 
