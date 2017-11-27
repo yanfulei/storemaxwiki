@@ -1,3 +1,3 @@
-- [关于](README.md)
+- [关于](./README.md)
 - [操作手册](deploy.md)
 - [创建用户](user.md)
